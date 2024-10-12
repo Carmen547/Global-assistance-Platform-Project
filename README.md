@@ -1,4 +1,4 @@
-Global Assistance Platform
+GLOBAL ASSISTANCE PLATFORM
 The Global Assistance Platform is a technology-enabled system designed to leverage AI-powered assistance for real-time query resolution, focusing on social and environmental challenges. This platform utilizes OpenAI's GPT model to provide intelligent, real-time support for users seeking answers across various domains such as health, finance, and technology.
 Key Features
 AI-Powered Query System: Users can ask any question, and the platform provides real-time AI-generated responses.
