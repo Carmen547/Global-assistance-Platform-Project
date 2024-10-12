@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="query">
+    <h2>Submit Your Query</h2>
+    <form action="{{ url_for('submit_query') }}" method="post">
+        <label for="query">Enter your query:</label>
+        <input type="text" id="query" name="query" required>
+        <button type="submit">Submit</button>
+    </form>
+    <img src="{{ url_for('static', filename='images/favicon_converted.png') }}" alt="Query Image">
+</div>
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
